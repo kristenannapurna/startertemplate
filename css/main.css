@@ -8,10 +8,19 @@ body {
   font-size: 16px;
   font-weight: 300;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  line-height: 1.5;
 }
 
 section {
   margin: 25px 10px;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5 {
+	font-family: 'Montserrat', sans-serif;
 }
 
 h1.title {
@@ -24,4 +33,8 @@ h1.title {
 
 input[type="radio"] {
   margin-right: 5px;
+}
+
+img {
+	width: 250px;
 }
